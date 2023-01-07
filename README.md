@@ -1,4 +1,4 @@
-# A simple image processor using:
+# A simple image processor using
 
 - Bull for queues
 - Express for web server
